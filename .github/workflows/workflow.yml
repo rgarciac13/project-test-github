@@ -1,7 +1,6 @@
 name: Build and test of Java Project
 
 on: [push]
-
 jobs:
   build:
     name: Build with Docker
